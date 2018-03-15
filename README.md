@@ -8,6 +8,7 @@ Vue.js 兼具 Angular.js 和 React.js 的优点，并剔除它们的缺点”，
 
 项目部分截图
 ![01](https://github.com/coolfxl/sell/blob/master/src/assets/images/01.png)
+![06](https://github.com/coolfxl/sell/blob/master/src/assets/images/06.jpg)
 ![05](https://github.com/coolfxl/sell/blob/master/src/assets/images/05.png)
 ![04](https://github.com/coolfxl/sell/blob/master/src/assets/images/04.png)
 ![03](https://github.com/coolfxl/sell/blob/master/src/assets/images/03.png)
